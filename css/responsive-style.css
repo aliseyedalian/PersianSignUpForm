@@ -1,0 +1,37 @@
+@media(max-width:800px){
+    .form-container {
+        height: 400px;
+        width: 600px;        
+    }
+    .form-input {
+        width: 250px;
+        font-size: 13px;
+        border-bottom-width: 1px;
+        margin-bottom: 30px;
+        padding: 5px 0;
+    }
+    .sign-up-form {
+        padding: 50px 30px;
+    }
+    .sign-up-form label {
+        font-size: 13px;
+    }
+    .sign-up-form button {
+        width: 70px;
+        margin-top: 50px;
+        margin-left: 15px;
+        border-width: 1px;
+        font-size: 10;
+    }
+    .x-btn {
+        font-size: 18px;
+    }
+    .header h1 {
+        font-size: 20px;
+        left: 12%;
+    }
+}
+
+@media(max-width:600px){
+    
+}

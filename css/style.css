@@ -9,6 +9,7 @@
     background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.8)),url(../images/bg2.jpg) center no-repeat;
     background-size: cover;
 }
+/* first */
 .banner {        
     color: #fff;
     width: 750px;
@@ -19,6 +20,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+  
 }
 .banner-heading {
     font-family: byekan;
@@ -58,9 +60,11 @@
     80% {transform: translateY(0);}
     100% {transform: translateY(0);}
 }
+
+/* secend */
 .form-container {
     display: flex;
-    height: 600px;
+    height: 500px;
     width: 800px;
     position: absolute;
     top: 50%;
